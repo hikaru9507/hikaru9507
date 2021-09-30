@@ -1,4 +1,4 @@
-### こんにちは 👋
+_クックック・・・_
 
 <!-- **hikaru9507/hikaru9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
