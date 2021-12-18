@@ -1,6 +1,6 @@
 _クックック・・・_
 
-[![Hikaru GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaru9507)](https://github.com/anuraghazra/github-readme-stats)
+[![Hikaru GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaru9507&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- **hikaru9507/hikaru9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
